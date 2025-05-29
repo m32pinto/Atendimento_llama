@@ -15,8 +15,9 @@ Para isso, eu usei um modelo de linguagem chamado **Llama 3.1 8B Instruct**
 
 4 - Testes :repeat: : O robô foi testado em duas situações: **pedidos de delivery** e **pedidos de atacado**. 
 
-4.1 - No delivery, ele se saiu muito bem, mesmo quando as pessoas mandavam as informações dos pedidos todas bagunçadas. 
- Já no atacado, com muitos itens nos pedidos, o robô teve um pouco de dificuldade. 
+ 4.1 - No delivery, ele se saiu muito bem, mesmo quando as pessoas mandavam as informações dos pedidos todas bagunçadas. 
+
+ 4.2 - Já no atacado, com muitos itens nos pedidos, o robô teve um pouco de dificuldade. 
  Nesses casos, um modelo de linguagem mais potente, como o GPT-4, seria mais adequado. 
  No fim das contas, a ideia é que o robô possa substituir um atendente humano no atendimento e reduzindo o tamanho do processo feito pelo atendente humano, 
  sendo que este apenas irá preparar, embalar e cuidar da entrega do pedido e repassará o valor final ou avisaria a falta de produtos, agilizando o atendimento.
