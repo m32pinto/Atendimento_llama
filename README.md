@@ -26,11 +26,16 @@ Para isso, eu usei um modelo de linguagem chamado **Llama 3.1 8B Instruct**
  No fim das contas, a ideia é que o robô possa substituir um atendente humano no atendimento e reduzindo o tamanho do processo feito pelo atendente humano, 
  sendo que este apenas irá preparar, embalar e cuidar da entrega do pedido e repassará o valor final ou avisaria a falta de produtos, agilizando o atendimento.
 
-OBSERVAÇÃO 1 :bookmark_tabs: : A loja conta com 6 funcionários sendo que avaliar o projeto participaram o gerente da loja Daniel Leite, o supervisor Marcus Vinicius, e o auxiliar Alexandre dos Santos, que testaram em primeira lugar para avaliar a viabilidade do projeto, testando por si próprios a capacidade do robô captar os pedidos, 
+- OBSERVAÇÃO 1 :bookmark_tabs: : A loja conta com 6 funcionários sendo que avaliar o projeto participaram o gerente da loja Daniel Leite, o supervisor Marcus Vinicius, e o auxiliar Alexandre dos Santos, que testaram em primeira lugar para avaliar a viabilidade do projeto, testando por si próprios a capacidade do robô captar os pedidos, 
 logo após fizeram a tentativa de acrescentar no processo de pedido o robô e aceitaram como parte do processo e pediram apenas poucos ajustes no protótipo e para poder, 
 finalizar o pedido e enviar mensagens separadas para os clientes.
 
-Melhorias para o projeto e para atividade extensionista do segundo semestre.
+- Melhorias para o projeto e para atividade extensionista do segundo semestre. :bar_chart:
+
+  - Botão de finalizar pedido com mensagem de espera enquanto o os atendentes verificam e preparam o pedido.
+  - Controle e organização em pedidos maiores.
+  - Banco de dados para gravar clientes e marcas de produtos.
+  - Atendimento humanizado e por etapas.
 
 ## 💻 Tecnologias utilizadas no projeto
 
