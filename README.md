@@ -1,7 +1,11 @@
- A atividade extensionista foi um projeto para a empresa nippobraz. 
- O objetivo era criar um robô para o WhatsApp da empresa, que pudesse atender os clientes automaticamente.
- Imagine um atendente virtual que responde as mensagens sozinho. 
- Para isso, eu usei um modelo de linguagem chamado Meta Llama 3.1. 
+# Atividade extensionista da Gran faculdade 📚
+
+## Descrição 📃
+
+A atividade extensionista foi um projeto para a empresa nippobraz. 
+O objetivo é criar um robô para o WhatsApp da empresa, que pudesse atender os clientes automaticamente.
+Imagine um atendente virtual que responde as mensagens sozinho. 
+Para isso, eu usei um modelo de linguagem chamado Meta Llama 3.1. 
  Pense nele como o cérebro do robô, que entende o que as pessoas escrevem e gera as respostas. 
  Esse modelo foi executado no computador usando um programa chamado LM Studio. 
  Para fazer tudo funcionar, eu escrevi os códigos no Visual Studio Code e usei uma biblioteca chamada whatsapp-web.js, que permite que o robô se conecte ao WhatsApp. 
@@ -15,3 +19,10 @@ A loja conta com 6 funcionários sendo que avaliar o projeto participaram o gere
 que testaram em primeira lugar para avaliar a viabilidade do projeto, testando por si próprios a capacidade do robô captar os pedidos, 
 logo após fizeram a tentativa de acrescentar no processo de pedido o robô e aceitaram como parte do processo e pediram apenas poucos ajustes no protótipo e para poder, 
 finalizar o pedido e enviar mensagens separadas para os clientes.
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) :globe_with_meridians:
+- [Lm Studio](https://lmstudio.ai/) :globe_with_meridians:
+- [Visual Studio Code](https://code.visualstudio.com/):globe_with_meridians:
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js.git) ou [wppconnect](https://github.com/wppconnect-team/wppconnect.git) :globe_with_meridians:
